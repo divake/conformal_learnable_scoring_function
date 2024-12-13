@@ -96,5 +96,3 @@ def plot_conformal_metrics(metrics: dict, save_path: str):
     plt.title('Conformal Prediction Metrics per Class')
     plt.savefig(save_path)
     plt.close()
-
-# This is a comment
